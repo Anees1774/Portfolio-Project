@@ -366,6 +366,10 @@ article .icon {
 #projects {
   position: relative;
 }
+.certification-img {
+  height: 6rem;
+  width: auto;
+}
 
 .color-container {
   border-color: rgb(163, 163, 163);
@@ -395,6 +399,9 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+}
+#certifications {
+  position: relative;
 }
 
 .contact-info-upper-container {
